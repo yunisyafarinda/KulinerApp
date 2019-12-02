@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KulinerAppv2</string>
+    <string-array name="nama_makanan">
+        <item>Pecel</item>
+        <item>Chicken Soto</item>
+        <item>Bakso</item>
+        <item>Kentucky Fried Chicken</item>
+        <item>Fried Rice</item>
+    </string-array>
+
+    <string-array name="des_makanan">
+        <item>Pecel is a food that consists of a variety of vegetables. Pecel in the area of the MBE is not much different from other areas in Java. Pecel consists of vegetable vegetables such as spinach, long beans, cauliflower or cabbage, sprouts or bean sprouts, and cucumber sing in the give sambal pecel or peanut seasoning.</item>
+        <item>Soto Ayam is a typical Indonesian food which is a type of chicken soup with a yellowish broth. The yellow color is due to turmeric used as a seasoning. Soto Ayam is found in many regions in Indonesia and Singapore.</item>
+        <item>Bakso or Meatball is a type of meat balls commonly found in Indonesian cuisine. [2] meatballs are generally made from a mixture of ground beef and tapioca flour, but there are also meatballs made from chicken, fish, or shrimp even buffalo meat. In the presentation, meatballs are generally served hot with a clear beef broth, mixed noodles, vermicelli, bean sprouts, tofu, sometimes eggs and sprinkled with fried onions and celery.</item>
+        <item>KFC (formerly known by the name Kentucky Fried Chicken) is a franchise trademark of Yum! Brands, Inc., headquartered in Louisville, Kentucky, United States. Founded by Col. Harland Sanders, KFC is known mainly for its fried chicken, which is commonly served in the "Timba " (bucket) of paperboard.</item>
+        <item>Nasi Goreng is a food of rice that is fried and stir in cooking oil or margarine, usually plus sweet soy sauce, onion, garlic, tamarind, pepper and other spices, such as eggs, chicken, and crackers. There is also another type of fried rice made with salted fish that is popular throughout Indonesia.</item>
+    </string-array>
+
+    <string-array name="gambar_makanan">
+        <item>@drawable/pecel</item>
+        <item>@drawable/sotoayam</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/friedchicken</item>
+        <item>@drawable/friedrice</item>
+    </string-array>
+
+    <string-array name="bahan_makanan">
+        <item>Ingredient : nasi, sayur mayur, bumbu kacang, tempe, tahu, telor</item>
+        <item>Ingredient : nasi, ayam suwir, bihun, kol, toge, kuah khas soto</item>
+        <item>Ingredient : bakso daging sapi, sawi, kol, bihun, seledry, kuah kaldu bakso</item>
+        <item>Ingredient : daging ayam, tepung bumbu, saus sambal, saus tomat</item>
+        <item>Ingredient : nasi, sawi, kol, sosis cincang, bakso cincang, daging ayam cincang telur ceplok</item>
+    </string-array>
+
+    <string-array name="nama_minuman">
+        <item>Beras Kencur</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Milkshake</item>
+        <item>Carbonated Drinks</item>
+    </string-array>
+
+    <string-array name="des_minuman">
+        <item>Beras kencur is a typical freshener drink from Indonesia (Java). This drink is also classified as Jamu because it has the efficacy of increasing appetite. Rice kencur is very popular because it has a sweet and fresh flavor. The main ingredient of rice kencur, of course, is rice (which is mashed) and rhizome kencur. Combination of rice and kencur many contain vitamin B that can stimulate the stomach give hunger in addition to the Jamu Rice kencur if drunk regularly every day can help thicken the abdominal wall to cure stomach ulcers.</item>
+        <item>Coffee is a brew of coffee beans that have been roasted and mashed into powder. [2] Coffee is one of the commodities in the world cultivated more than 50 countries. Two varieties of coffee trees are known in general namely Coffee Robusta (Coffea canephora) and Arabica coffee (Coffea arabica).</item>
+        <item>Tea is a drink containing kafeina, an infusion that is made by brewing leaves, leaf buds, or leaves that are dried from the Camellia sinensis plant with hot water. Tea derived from tea plants is divided into four groups: black tea, oolong tea, green tea, and white tea.</item>
+        <item>Milkshake is a cold drink from a mixture of milk, ice cream, and popsicle that is shaken to foaming. In addition to being shaken with a blender, whipped milk can be made using a glass-lid (shaker). In the United Kingdom, whipped milk is only made from milk mixed with fruit or chocolate.</item>
+        <item>Carbonated drinks are drinks that have no alcohol content that undergoes the process of carbonation. In all parts of the Earth, carbonated beverages have several different popular names, for example, in the United States, known as soda, soda pop, pop or tonic, in the UK known as fizzy drinks, in Canada known as Soda or Pop Were. While in the region of Ireland, they call it Minerals.</item>
+    </string-array>
+    <string-array name="gambar_minuman">
+        <item>@drawable/jamu</item>
+        <item>@drawable/kopi</item>
+        <item>@drawable/teh</item>
+        <item>@drawable/milkshake</item>
+        <item>@drawable/bersoda</item>
+    </string-array>
+
+    <string-array name="bahan_minuman">
+        <item>Ingredient: Rice, Kencur</item>
+        <item>Ingredient: Ekstrak Coffee</item>
+        <item>Ingredient: leave tea</item>
+        <item>Ingredient: milk, soda, syrup </item>
+        <item>Produk Karbonasi: Cola-cola, Sprite, Fanta</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title">Title</string>
+</resources>

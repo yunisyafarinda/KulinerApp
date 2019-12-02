@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KulinerAppv2</string>
+    <string-array name="nama_makanan">
+        <item>Pecel</item>
+        <item>Soto Ayam</item>
+        <item>Bakso</item>
+        <item>Kentucky Fried Chicken</item>
+        <item>Nasi Goreng</item>
+    </string-array>
+
+    <string-array name="des_makanan">
+        <item>Pecel adalah makanan sing terdiri dari berbagai macam sayur. Pecel di daerah kebuman tidak jauh berbeda dengan di daerah lain di jawa. Pecel terdiri dari sayuran seperti sayur bayam, kacang panjang,kol atau kubis, kecambah atau taoge, dan timun sing di beri sambal pecel atau bumbu kacang.</item>
+        <item>Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu. Soto ayam banyak ditemukan di daerah-daerah di Indonesia dan Singapura.</item>
+        <item>Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.[2] Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, akan tetapi ada juga bakso yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur dan ditaburi bawang goreng dan seledri.</item>
+        <item>KFC (dulu dikenal dengan nama Kentucky Fried Chicken) adalah suatu merek dagang waralaba dari Yum! Brands, Inc., yang bermarkas di Louisville, Kentucky, Amerika Serikat. Didirikan oleh Col. Harland Sanders, KFC dikenal terutama karena ayam gorengnya, yang biasa disajikan dalam "timba" (bucket) dari kertas karton.</item>
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin, biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk. Ada pula nasi goreng jenis lain yang dibuat bersama ikan asin yang juga populer di seluruh Indonesia.</item>
+    </string-array>
+
+    <string-array name="gambar_makanan">
+        <item>@drawable/pecel</item>
+        <item>@drawable/sotoayam</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/friedchicken</item>
+        <item>@drawable/friedrice</item>
+    </string-array>
+
+    <string-array name="bahan_makanan">
+        <item>Ingredient : nasi, sayur mayur, bumbu kacang, tempe, tahu, telor</item>
+        <item>Ingredient : nasi, ayam suwir, bihun, kol, toge, kuah khas soto</item>
+        <item>Ingredient : bakso daging sapi, sawi, kol, bihun, seledry, kuah kaldu bakso</item>
+        <item>Ingredient : daging ayam, tepung bumbu, saus sambal, saus tomat</item>
+        <item>Ingredient : nasi, sawi, kol, sosis cincang, bakso cincang, daging ayam cincang telur ceplok</item>
+    </string-array>
+
+    <string-array name="nama_minuman">
+        <item>Beras Kencur</item>
+        <item>Kopi</item>
+        <item>Teh</item>
+        <item>Milkshake</item>
+        <item>Minuman Berkarbonasi</item>
+    </string-array>
+
+    <string-array name="des_minuman">
+        <item>Beras kencur merupakan minuman penyegar khas dari Indonesia (Jawa). Minuman ini juga digolongkan sebagai jamu karena memiliki khasiat meningkatkan nafsu makan. Beras kencur sangat populer karena memiliki rasa yang manis dan segar. Bahan utama beras kencur, tentu saja, adalah beras (yang dihaluskan) dan rimpang kencur. Kombinasi beras dan kencur banyak mengandung vitamin B yang dapat merangsang lambung memberikan rasa lapar selain itu jamu beras kencur jika diminum secara rutin setiap hari bisa membantu menebalkan dinding perut untuk menyembuhkan penyakit maag.</item>
+        <item>Kopi adalah minuman hasil seduhan biji kopi yang telah disangrai dan dihaluskan menjadi bubuk.[2] Kopi merupakan salah satu komoditas di dunia yang dibudidayakan lebih dari 50 negara. Dua varietas pohon kopi yang dikenal secara umum yaitu Kopi Robusta (Coffea canephora) dan Kopi Arabika (Coffea arabica).</item>
+        <item>Teh adalah minuman yang mengandung kafeina, sebuah infusi yang dibuat dengan cara menyeduh daun, pucuk daun, atau tangkai daun yang dikeringkan dari tanaman Camellia sinensis dengan air panas. Teh yang berasal dari tanaman teh dibagi menjadi empat kelompok: teh hitam, teh oolong, teh hijau, dan teh putih.</item>
+        <item>Susu kocok (bahasa Inggris: milkshake) adalah minuman dingin dari campuran susu, es krim, dan sirop berperasa yang dikocok hingga berbusa. Selain dikocok dengan blender, susu kocok bisa dibuat dengan memakai gelas pengocok bertutup (shaker). Di Britania Raya, susu kocok hanya dibuat dari susu yang dicampur buah atau cokelat.</item>
+        <item>Minuman berkarbonasi adalah minuman tidak memiliki kandungan alkohol yang mengalami proses karbonasi. Di seluruh belahan bumi, minuman berkarbonasi memiliki beberapa nama populer yang berbeda-beda, sebagai contoh, di Amerika Serikat, dikenal dengan nama soda, soda pop, pop atau tonik, di Inggris dikenal dengan fizzy drinks, di Kanada dikenal dengan Soda atau Pop saja. Sedangkan di daerah Ireland, mereka menyebutnya Minerals.</item>
+    </string-array>
+    <string-array name="gambar_minuman">
+        <item>@drawable/jamu</item>
+        <item>@drawable/kopi</item>
+        <item>@drawable/teh</item>
+        <item>@drawable/milkshake</item>
+        <item>@drawable/bersoda</item>
+    </string-array>
+
+    <string-array name="bahan_minuman">
+        <item>Ingredient: Beras, Kencur</item>
+        <item>Ingredient: Bubuk kopi alami</item>
+        <item>Ingredient: Sari daun teh perkebunan</item>
+        <item>Ingredient: Susu, soda, sirup </item>
+        <item>Produk Karbonasi: Cola-cola, Sprite, Fanta</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title">Title</string>
+</resources>
